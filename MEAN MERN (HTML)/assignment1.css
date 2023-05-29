@@ -1,0 +1,37 @@
+#first{
+    background-color: rgb(226, 230, 232);
+    display: flex;
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+}
+#jk{
+    color: rgb(14, 13, 13);
+}
+#second{
+    background-color: rgb(51, 0, 255);
+    grid-template-rows:repeat(2,1fr);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#third{
+    background-color: rgb(209, 192, 33);
+    grid-template-columns:repeat(2,1fr);
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+}
+#fourth{
+    grid-template-rows:repeat(3,1fr);
+    grid-template-columns:repeat(2,1fr);
+    background-color: rgb(43, 226, 83);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
