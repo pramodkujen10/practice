@@ -1,0 +1,19 @@
+{
+  "myData": [
+    {
+      "image": "https://cdn.pixabay.com/photo/2022/12/25/04/42/satoru-gojo-7676809_1280.jpg",
+      " title": "satoru gojo",
+      "rating": 5
+    },
+    {
+      " image": "https://cdn.pixabay.com/photo/2022/12/25/04/42/satoru-gojo-7676809_1280.jpg",
+      " title": "satoru gojo",
+      "rating": 5
+    },
+    {
+      "id": 1685613068297,
+      "email": "pramodkumarjena027@gmail.com",
+      "password": "pkj"
+    }
+  ]
+}

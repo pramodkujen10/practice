@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    background-color: rgb(222, 234, 207);
+    font-size: 65px;
+   }
+   #Restauraunt{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+   }
+   #Restauraunt img{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 25px solid rgb(45, 40, 45);
+   }
+   #Restauraunt h2 {
+    font-size: 43px;
+    margin-left: 109px;
+    
+    text-align: left;
+   }
+   #Restauraunt p{
+    margin-left: 109px;
+    border: 23px;
+    font-size: 23px;
+   }
+   #Restauraunt button{
+    font-size: larger;
+    margin: 23px;
+    color: blue;
+    background-color: rgb(212, 212, 215);
+   }
